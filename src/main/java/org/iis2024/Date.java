@@ -29,6 +29,11 @@ public class Date {
     return day;
   }
 
+
+  public void MethodAddedByOwner() {
+    System.out.println("Method Added By The Owner");
+  }
+
   /**
    * Retrieves the month component of this date.
    *
