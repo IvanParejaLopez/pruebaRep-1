@@ -17,6 +17,7 @@ import java.text.SimpleDateFormat;
  */
 public class Date {
   private int fieldAddedByCollaborator;
+  private int fieldAddedByCollaborator2;
   private final int day;
   private final int month;
   private final int year;
@@ -69,11 +70,18 @@ public class Date {
     this.year = year;
 =======
   // Constructor modified by the collaborator
+<<<<<<< HEAD
   public Date(int tag, int monat, int jahr) {
     this.day = tag;
     this.month = monat;
     this.year = jahr;
 >>>>>>> 53536ce983b5b12742ee2ed5bba577a1a42fb33a
+=======
+  public Date(int day, int month, int year) {
+    this.day = day;
+    this.month = month;
+    this.year = year;
+>>>>>>> 721beb3948a1539db043a9eebe03a337293c6885
   }
 
   /**
