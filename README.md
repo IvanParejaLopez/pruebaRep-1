@@ -1,1 +1,4 @@
-#pruebaRep
+Vale 😏, punto número dos 📍, lo vais a ver 👀 mucho mejor 💅 que en el canal 📺 de IlloJuan 🤓, que en el canal 💻 de AlexelCapo 🎮, que en el canal 📡 de tal 🙄, mucho mejor 😌. Porque yo streameo 📡 X264 🧠 con, eh 😬, doble keyframe 🔁 de intervalo ⏱️, streameo 🧑‍💻 tirando de microprocesador ⚙️, streameo otra vez 😤 en 8.000 de bit rate 📈 constante 💪, pero codificado 🔒 con el microprocesador 🧩, por tanto 🤔, la tasa de información 🧾 por píxel 🧮 es mucho mayor 📊 y no vais 💬 a poder compararlo 🤷‍♂️ con el nivel 🧠 de calidad 💎 de los demás streamers 🎭.
+Esto lo quiero 🗣️ dejar dicho 📢 para los especialistas 🧐 que eeee 😅 que queráis tener 🧠 un poquito 🧃 más de conocimiento 📚 y de cultura 🎓 general, que nunca 🚫 viene mal 😌, ¿vale? 👍
+O sea 😏 que tened en cuenta 💭 que vosotros lo vais 🧍‍♂️ a ver 👁️ mucho mejor 🌟 en mi directo 🔴 que en el de los demás 😤.
+Ahora ⏰, esperemos 🙏 que la capturadora 🎥 no me falle 💀.
